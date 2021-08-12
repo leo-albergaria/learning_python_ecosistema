@@ -1,7 +1,7 @@
-<p><img src="imagem" align="left" height="150px" width="150px">
-    <h1># Título</h1> 
+<p><img src="https://user-images.githubusercontent.com/63436406/129230824-6a4e2b32-3e83-4a95-8f7b-ce4322270731.png" align="left" height="150px" width="150px">
+    <h1># Criando um Ecossistema Hadoop Totalmente Gerenciado com Google Cloud Dataproc</h1> 
     <p align="justify">
-    Você digitar texto aqui.
+    Sua missão será criar um ecossistema de Big Data usando o Google Cloud Platform (GCP). Para isso, o expert te ensinará a configurar o Google Cloud Dataproc, um Hadoop totalmente gerenciado, usando seus créditos gratuitos da GCP.
     </p>
 </p>      
 
